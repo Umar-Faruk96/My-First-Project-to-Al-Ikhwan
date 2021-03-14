@@ -1,0 +1,19 @@
+body {
+    background-color: blue;
+}
+
+/*for top margin on x large device*/
+.margin-mid {
+    margin-top: 10rem;
+}
+
+/*for paragraph text*/
+.text-small {
+    font-size: 0.60rem;
+    line-height: 1.1rem;
+}
+
+/*for deleting default right mergin of boostrap container */
+.right-side-merzing{
+    margin-right: 0 !important;
+}
